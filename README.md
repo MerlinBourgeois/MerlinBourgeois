@@ -1,23 +1,111 @@
-#   Merlin Bourgeois
+👋 Hi, I'm Merlin Bourgeois
 
-### Student at 19 Brussels (42 network)
+IT Support Technician | Systems | AI & Software Development
 
-<img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/stats?cursusId=21&coalitionId=54" alt="mebourge's 42 stats" /></a>
+Junior IT Support Technician with a programming background from 42 Brussels and hands-on experience in IT support, troubleshooting and interactive systems.
 
-# projets : 
+I enjoy solving technical problems, building software and exploring the intersection between systems, programming and artificial intelligence.
 
-#### so_long :        <img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/project/2877518" alt="mebourge's 42 so_long Score" /></a>
+📍 Brussels, Belgium
+📧 Merlinbourgeois@gmail.com
+💼 GitHub
 
-#### get_next_line :  <img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/project/2857346" alt="mebourge's 42 get_next_line Score" /></a>
+💻 Technical Skills
 
-#### ft_printf :      <img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/project/2857236" alt="mebourge's 42 ft_printf Score" /></a>
+Programming Languages
 
-#### Born2beroot :    <img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/project/2855593" alt="mebourge's 42 Born2beroot Score" /></a>
 
-#### Libft :          <img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/project/2817841" alt="mebourge's 42 Libft Score" /></a>
 
-### Push_swap :       <img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/project/2894837" alt="mebourge's 42 push_swap Score" /></a>
 
-### Minitalk :        <img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/project/2919535" alt="mebourge's 42 minitalk Score" /></a>
 
-### Exam Rank 02      <img src="https://badge42.vercel.app/api/v2/claqxrnwq00100fmnl7ru20u8/project/2909071" alt="mebourge's 42 Exam Rank 02 Score" /></a>
+
+
+IT & Systems
+
+Troubleshooting & Incident Resolution
+
+System Maintenance & Configuration
+
+Linux & Bash Environments
+
+CLI Tools
+
+Git
+
+Technical Support & User Communication
+
+AI & Development
+
+TensorFlow
+
+Convolutional Neural Networks (CNN)
+
+Real-time Audio Processing
+
+Voice-Controlled Applications
+
+🛠️ Personal Projects
+
+🎛️ AI Audio Pedal
+
+Python / C++
+
+Real-time audio processing system with voice control capabilities.
+
+🧠 CNN Audio Classifier
+
+Python / TensorFlow
+
+Audio classification project using a Convolutional Neural Network.
+
+🎙️ Voice-Controlled Audio System
+
+Python
+
+Hands-free audio interface controlled through voice commands.
+
+💼 Professional Experience
+
+IT & AI Intern — Exhibition Hub
+
+Brussels | 2024 – 2025
+
+Provided IT support for interactive systems and installations.
+
+Diagnosed and resolved technical issues in a production environment.
+
+Maintained and configured technical systems.
+
+Waiter — Le Petit Bonbon (C. Hardiquest)
+
+2025 – Present
+
+Worked in a fast-paced, high-pressure environment.
+
+Developed strong communication and problem-solving skills.
+
+Delivered customer service while managing multiple priorities.
+
+🎓 Education
+
+42 Brussels — Programming
+2022 – 2024
+
+CESS — Advanced Sciences
+2022
+
+🌍 Languages
+
+🇫🇷 French — Native
+
+🇬🇧 English — Very Good
+
+🇳🇱 Dutch — Intermediate
+
+📫 Contact
+
+Email: Merlinbourgeois@gmail.com
+
+GitHub: @MerlinBourgeois
+
+Always learning, building and solving problems. 🚀
