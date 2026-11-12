@@ -1,111 +1,126 @@
-👋 Hi, I'm Merlin Bourgeois
+# 👋 Hi, I'm Merlin Bourgeois
 
-IT Support Technician | Systems | AI & Software Development
+### Belgian Developer | Software & Electronics | Audio Engineering
 
-Junior IT Support Technician with a programming background from 42 Brussels and hands-on experience in IT support, troubleshooting and interactive systems.
+I'm a Belgian developer with a strong interest in low-level programming, electronics and sound engineering. I studied programming at **42 Brussels**, where I developed a solid foundation in C, C++ and system programming.
 
-I enjoy solving technical problems, building software and exploring the intersection between systems, programming and artificial intelligence.
+Beyond software development, I'm passionate about designing and building **electronic musical instruments**, working with both analog and digital electronics.
 
-📍 Brussels, Belgium
-📧 Merlinbourgeois@gmail.com
-💼 GitHub
+I enjoy combining hardware and software to create unique instruments, audio processing systems and interactive experiences. From analog circuits and signal processing to programming and AI, I'm interested in exploring the technical and creative possibilities of sound.
 
-💻 Technical Skills
+**I like understanding how things work, experimenting with new ideas and building things from scratch.**
 
-Programming Languages
+📍 Brussels, Belgium  
+📧 [Merlinbourgeois@gmail.com](mailto:Merlinbourgeois@gmail.com)  
+💻 [GitHub](https://github.com/MerlinBourgeois)
 
+---
 
+## 💻 Technical Skills
 
+### Programming Languages
 
+- **C** — Advanced
+- **C++** — Intermediate
+- **Python** — Intermediate
+- **Bash** — Advanced
+- **JavaScript** — Basic
 
+### Systems & IT
 
+- Linux & Bash Environments
+- System Troubleshooting
+- System Maintenance & Configuration
+- Git & CLI Tools
+- Technical Support
 
-IT & Systems
+### Electronics & Audio Engineering
 
-Troubleshooting & Incident Resolution
+- Analog Electronic Instrument Design
+- Digital Electronic Instrument Design
+- Audio Signal Processing
+- Real-time Audio Processing
+- Hardware / Software Integration
+- Voice-Controlled Systems
 
-System Maintenance & Configuration
+### AI & Development
 
-Linux & Bash Environments
+- Python / TensorFlow
+- Convolutional Neural Networks (CNN)
+- Audio Classification
+- Voice-Controlled Applications
 
-CLI Tools
+---
 
-Git
+## 🎛️ Personal Projects
 
-Technical Support & User Communication
+My personal projects focus on the intersection of programming, electronics, audio and artificial intelligence.
 
-AI & Development
+### AI Audio Pedal
+**Python / C++**
 
-TensorFlow
+Real-time audio processing system with voice control capabilities, exploring the integration of software and musical hardware.
 
-Convolutional Neural Networks (CNN)
+### CNN Audio Classifier
+**Python / TensorFlow**
 
-Real-time Audio Processing
+Audio classification using a Convolutional Neural Network.
 
-Voice-Controlled Applications
-
-🛠️ Personal Projects
-
-🎛️ AI Audio Pedal
-
-Python / C++
-
-Real-time audio processing system with voice control capabilities.
-
-🧠 CNN Audio Classifier
-
-Python / TensorFlow
-
-Audio classification project using a Convolutional Neural Network.
-
-🎙️ Voice-Controlled Audio System
-
-Python
+### Voice-Controlled Audio System
+**Python**
 
 Hands-free audio interface controlled through voice commands.
 
-💼 Professional Experience
+---
 
-IT & AI Intern — Exhibition Hub
+## 🔧 What I'm Interested In
 
-Brussels | 2024 – 2025
+- Designing and building analog and digital electronic instruments.
+- Exploring audio electronics and sound synthesis.
+- Developing low-level software and embedded systems.
+- Experimenting with audio processing and artificial intelligence.
+- Combining programming, hardware and creative engineering.
 
-Provided IT support for interactive systems and installations.
+---
 
-Diagnosed and resolved technical issues in a production environment.
+## 💼 Professional Experience
 
-Maintained and configured technical systems.
+### IT & AI Intern — Exhibition Hub
+**Brussels | 2024 – 2025**
 
-Waiter — Le Petit Bonbon (C. Hardiquest)
+- Provided IT support for interactive systems and installations.
+- Diagnosed and resolved technical issues in production environments.
+- Maintained and configured technical systems.
 
-2025 – Present
+### Waiter — Le Petit Bonbon (C. Hardiquest)
+**2025 – Present**
 
-Worked in a fast-paced, high-pressure environment.
+- Worked in a fast-paced, high-pressure environment.
+- Developed strong communication and problem-solving skills.
+- Managed multiple priorities while delivering quality customer service.
 
-Developed strong communication and problem-solving skills.
+---
 
-Delivered customer service while managing multiple priorities.
+## 🎓 Education
 
-🎓 Education
-
-42 Brussels — Programming
+**42 Brussels — Programming**  
 2022 – 2024
 
-CESS — Advanced Sciences
+**CESS — Advanced Sciences**  
 2022
 
-🌍 Languages
+---
 
-🇫🇷 French — Native
+## 🌍 Languages
 
-🇬🇧 English — Very Good
+- 🇫🇷 French — Native
+- 🇬🇧 English — Very Good
+- 🇳🇱 Dutch — Intermediate
 
-🇳🇱 Dutch — Intermediate
+---
 
-📫 Contact
+## 📫 Contact
 
-Email: Merlinbourgeois@gmail.com
+- Email: [Merlinbourgeois@gmail.com](mailto:Merlinbourgeois@gmail.com)
+- GitHub: [@MerlinBourgeois](https://github.com/MerlinBourgeois)
 
-GitHub: @MerlinBourgeois
-
-Always learning, building and solving problems. 🚀
